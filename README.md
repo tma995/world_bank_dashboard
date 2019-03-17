@@ -1,4 +1,4 @@
-# Link to Webapp [https://ivyteam.herokuapp.com/](https://world-bank-dashboard-api.herokuapp.com)
+# Link to [Worldbank Dashboard Webapp](https://ivyteam.herokuapp.com/)
 
 # World Bank API Data Dashboard 
 
